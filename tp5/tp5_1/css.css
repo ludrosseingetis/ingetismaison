@@ -1,0 +1,51 @@
+header {
+	background-color: #3498db;
+	color: #fff;
+	text-align: center;
+	padding: 20px;
+}
+h1 {
+	font-size: 36px;
+}
+section {
+	padding: 20px;
+}
+h2 {
+	font-size: 24px;
+	color: #333;
+}
+p{
+	font-size: 18px;
+	line-height: 1.5;
+	color: #555;
+}
+footer
+{
+	background-color: #333;
+	color: #fff;
+	text-align: center;
+	padding: 10px;
+}
+.foot {
+    position: fixed;
+    left: 50%;
+    bottom: 20px;
+    transform: translate(-50%, -50%);
+    margin: 0 auto;
+}
+a{
+	margin-left: 30px;
+	text-align: bottom;
+	
+	
+}
+.b1{
+	font-size: 15px;
+	margin-top: 5px;
+	padding: 7px;
+	text-align: center;
+}
+*{
+	margin: 0;
+	padding: 0;
+}

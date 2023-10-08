@@ -1,0 +1,17 @@
+ul {
+  list-style-type : none;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+.b7,.b6,.b5,.b77 {
+  margin-top: 1.5px;
+  padding: 3px;
+  margin-left: 50px;
+}
+p {
+  text-align: center;
+  color: whitesmoke;
+  margin-top: 2.5px;
+}
